@@ -1,76 +1,108 @@
-<h2 align="center">
-  Portfolio Website - v2.0<br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a>
-</h2>
-<div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
+# 🚀 Ayush Gupta | Personal Portfolio
 
-<br/>
+A high-performance, fully responsive personal portfolio website built with React.js. Designed with a premium "creative agency" aesthetic, featuring buttery-smooth scroll animations, cinematic floating physics, ambient mesh gradients, and a custom UI tailored to my background in Artificial Intelligence and Software Engineering.
 
-<center>
+![Portfolio Preview](https://img.shields.io/badge/Status-Live-success)
+![React](https://img.shields.io/badge/Built_With-React.js-61DAFB?logo=react)
+![Bootstrap](https://img.shields.io/badge/Styled_With-Bootstrap-7952B3?logo=bootstrap)
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge)
+## ✨ Key Features
 
-</center>
+* **Premium UI/UX:** Built with a dark "ambient glow" aesthetic, featuring glassmorphism (frosted glass) navbars, a custom high-tech targeting cursor, and custom neon scrollbars.
+* **Advanced Animations:** * **AOS (Animate On Scroll):** Elements glide smoothly into view using custom Cubic-Bezier physics for a heavy, premium feel.
+    * **Cinematic Floating:** 3D mechanical and floating physics applied to hero images.
+    * **Interactive Particles:** Connected neural-network style background particles that react to mouse hover and clicks.
+* **Native Timeline Resume:** Bypassed clunky PDF embedders for a native, animated HTML/CSS timeline detailing education and experience.
+* **Dynamic Typing Effect:** A smooth, looping typewriter effect showcasing professional roles.
+* **Fully Responsive:** Perfectly adapts to desktop, tablet, and mobile displays without losing animation fidelity.
 
-<h3 align="center">
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
-</h3>
+## 🛠️ Technologies & Libraries Used
 
-## TL;DR
+* **Frontend Framework:** [React.js](https://reactjs.org/)
+* **Styling & Layout:** CSS3, [React Bootstrap](https://react-bootstrap.github.io/)
+* **Animations:** * [AOS (Animate On Scroll)](https://michalsnik.github.io/aos/)
+    * [react-tsparticles](https://github.com/matteobruni/tsparticles)
+    * [react-parallax-tilt](https://www.npmjs.com/package/react-parallax-tilt)
+* **Typography & Icons:** [Typewriter Effect](https://www.npmjs.com/package/typewriter-effect), [React Icons](https://react-icons.github.io/react-icons/) (FontAwesome, Devicons, Simple Icons)
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
+## 💻 Running the Project Locally
 
-## Built With
+If you'd like to fork this repository or run it on your local machine, follow these steps:
+Gemini said
+Here is a professional, beautifully formatted README.md file tailored exactly to all the custom features and premium aesthetic we just built for your portfolio.
 
-My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+You can copy this directly, create a new file named README.md in your project's root folder (replacing the default one), and push it to GitHub.
 
-This project was built using these technologies.
+Markdown
+# 🚀 Ayush Gupta | Personal Portfolio
 
-- React.js
-- Node.js
-- Express.js
-- CSS3
-- VsCode
-- Vercel
+A high-performance, fully responsive personal portfolio website built with React.js. Designed with a premium "creative agency" aesthetic, featuring buttery-smooth scroll animations, cinematic floating physics, ambient mesh gradients, and a custom UI tailored to my background in Artificial Intelligence and Software Engineering.
 
-## Features
+![Portfolio Preview](https://img.shields.io/badge/Status-Live-success)
+![React](https://img.shields.io/badge/Built_With-React.js-61DAFB?logo=react)
+![Bootstrap](https://img.shields.io/badge/Styled_With-Bootstrap-7952B3?logo=bootstrap)
 
-**📖 Multi-Page Layout**
+## ✨ Key Features
 
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
+* **Premium UI/UX:** Built with a dark "ambient glow" aesthetic, featuring glassmorphism (frosted glass) navbars, a custom high-tech targeting cursor, and custom neon scrollbars.
+* **Advanced Animations:** * **AOS (Animate On Scroll):** Elements glide smoothly into view using custom Cubic-Bezier physics for a heavy, premium feel.
+    * **Cinematic Floating:** 3D mechanical and floating physics applied to hero images.
+    * **Interactive Particles:** Connected neural-network style background particles that react to mouse hover and clicks.
+* **Native Timeline Resume:** Bypassed clunky PDF embedders for a native, animated HTML/CSS timeline detailing education and experience.
+* **Dynamic Typing Effect:** A smooth, looping typewriter effect showcasing professional roles.
+* **Fully Responsive:** Perfectly adapts to desktop, tablet, and mobile displays without losing animation fidelity.
 
-**📱 Fully Responsive**
+## 🛠️ Technologies & Libraries Used
 
-## Getting Started
+* **Frontend Framework:** [React.js](https://reactjs.org/)
+* **Styling & Layout:** CSS3, [React Bootstrap](https://react-bootstrap.github.io/)
+* **Animations:** * [AOS (Animate On Scroll)](https://michalsnik.github.io/aos/)
+    * [react-tsparticles](https://github.com/matteobruni/tsparticles)
+    * [react-parallax-tilt](https://www.npmjs.com/package/react-parallax-tilt)
+* **Typography & Icons:** [Typewriter Effect](https://www.npmjs.com/package/typewriter-effect), [React Icons](https://react-icons.github.io/react-icons/) (FontAwesome, Devicons, Simple Icons)
 
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
+## 💻 Running the Project Locally
 
-## 🛠 Installation and Setup Instructions
+If you'd like to fork this repository or run it on your local machine, follow these steps:
 
-1. Installation: `npm install`
+**1. Clone the repository**
+```bash
+git clone [https://github.com/ayu-rn/portfolio.git](https://github.com/ayu-rn/portfolio.git)
+2. Navigate into the directory
 
-2. In the project directory, you can run: `npm start`
+Bash
+cd portfolio
+3. Install dependencies
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.
+Bash
+npm install
+4. Start the development server
 
-## Usage Instructions
+Bash
+npm start
+The application will automatically open in your default browser at http://localhost:3000.
 
-Open the project folder and Navigate to `/src/components/`. <br/>
-You will find all the components used and you can edit your information accordingly.
+📂 Project Structure Highlights
+src/components/Home/: Contains the hero section, dynamic typewriter, and mechanical 3D image logic.
 
-### Show your support
+src/components/About/: Houses the professional skillset, toolstack, and cinematic floating assets.
 
-Give a ⭐ if you like this website!
+src/components/Projects/: In-depth, text-focused engineering breakdown cards for recent work.
 
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+src/components/Resume/: Custom native animated timeline replacing standard PDF viewers.
+
+src/style.css: Contains the core mathematical physics, ambient background gradients, and custom cursor logic.
+
+🤝 Connect With Me
+GitHub: @ayu-rn
+
+LinkedIn: Ayush Gupta
+
+LeetCode: IgAmAOTi90
+
+Email: ayushgup4545@gmail.com
+
+Designed & Engineered by Ayush Gupta
+**1. Clone the repository**
+```bash
+git clone [https://github.com/ayu-rn/portfolio.git](https://github.com/ayu-rn/portfolio.git)
